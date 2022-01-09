@@ -32,7 +32,7 @@ body {
 	top: 50%;
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
-	transition: right 2s;
+	transition: right 1s;
 }
 
 .nav-container {
@@ -43,7 +43,7 @@ body {
 	bottom: -45px;
 	left: 0px;
 	overflow: hidden;
-	transition: width 2s, left 2s, border 2s;
+	transition: width 1s, left 1s, border 1s;
 }
 
 .nav-pointer:hover .nav-container {
@@ -76,7 +76,7 @@ body {
 	width: 180px;
 	background-color: #B1A29B;
 	font-size: 15px;
-	transition: height 2s;
+	transition: height 1s;
 	font-size: 18px;
 	font-weight: 900;
 }

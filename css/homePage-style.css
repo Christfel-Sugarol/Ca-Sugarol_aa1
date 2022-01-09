@@ -115,6 +115,18 @@ body {
 	max-width: 100%;
 }
 
+#logo {
+	width: 100px;
+	position:absolute;
+	right:15px;
+	top:15px;
+}
+
+#logo:hover {
+	width: 110px;
+	right:10px;
+	top:10px;
+}
 
 /* Home */
 

@@ -190,12 +190,12 @@ body {
 	color: white;
 }
 
-heading {
-	position: relative;
+.heading {
+	position: absolute;
 	left: 50px;
-	top: 100px;
+	top: 200px;
 	background-color: #988c94;
-	width: 200px;
+	width: 125px;
 	height: auto;
 	border: 5px solid #5d5c61;
 	text-align: center;
@@ -238,8 +238,8 @@ heading {
 	padding-left: 10px;
 	padding-right: 10px;
 	text-align: justify;
-	font-size: 22px;
-	text-indent: 80px
+	font-size: 20px;
+	line-height: 25px;
 }
 
 aside {

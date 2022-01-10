@@ -242,6 +242,36 @@ body {
 	line-height: 25px;
 }
 
+.P1-img {
+	position: absolute;
+	right: -450px;
+	width: 375px;
+	height: 300px;
+	top:0px;
+}
+
+.P1-img img {
+	position: relative;
+}
+
+
+/* Image Description */
+
+.P1-img span {
+	font-size: 15px;
+	position: relative;
+	bottom: 0;
+	left: 0;
+	word-wrap: break-word;
+	color: #5d5c61;
+	height: auto;
+}
+
+.P1-img span a {
+	color: #5d5c61;
+	text-decoration: underline;
+}
+
 aside {
 	position: absolute;
 	height: 200px;

@@ -224,17 +224,18 @@ body {
 /* Image Description */
 
 .P1-img span {
-	font-size: 13px;
+	font-size: 15px;
 	position: relative;
 	bottom: 0;
 	left: 0;
 	word-wrap: break-word;
-	color: #988c94;
+	color: #5d5c61;
 	height: auto;
 }
 
 .P1-img span a {
-	color: #988c94
+	color: #5d5c61;
+	text-decoration: underline;
 }
 
 
@@ -302,12 +303,13 @@ body {
 	bottom: 0;
 	left: 0;
 	word-wrap: break-word;
-	color: #988c94;
+	color: #5d5c61;
 	height: auto;
 }
 
 .P2-img span a {
-	color: #988c94
+	color: #5d5c61;
+	text-decoration: underline;
 }
 
 
@@ -336,17 +338,18 @@ body {
 /* Table Description */
 
 .P2-table span {
-	font-size: 13px;
+	font-size: 15px;
 	position: relative;
 	bottom: 0;
 	left: 0;
 	word-wrap: break-word;
-	color: #988c94;
+	color: #5d5c61;
 	height: auto;
 }
 
 .P2-table span a {
-	color: #988c94
+	color: #5d5c61;
+	text-decoration: underline;
 }
 
 .P2 td {
@@ -425,18 +428,18 @@ body {
 /* Image Description */
 
 .P3-img span {
-	font-size: 13px;
+	font-size: 15px;
 	position: relative;
 	bottom: 0;
 	left: 0;
 	word-wrap: break-word;
-	color: #988c94;
+	color: #5d5c61;
 }
 
 .P3-img span a {
-	color: #988c94
+	color: #5d5c61;
+	text-decoration: underline;
 }
-
 
 /* References */
 
